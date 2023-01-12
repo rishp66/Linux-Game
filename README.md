@@ -1,4 +1,4 @@
-# Linux Game
+# Linux Game on a Virtual Machine
 This game involves the user inputting different commands into the CLI to ensure their answer is correct and testing them on their knowledge.
 
 ## Elements of Linux
