@@ -16,7 +16,7 @@ fi
 echo "Nice job."
 echo "Q2: input the command to get the output of a file '-' in your Downloads folder."
 read user2
-answer2="cd Downloads | cat <- -"
+answer2="cd ~/Downloads | cat <- -"
 if [ "$user2" != "$answer2" ]; then
  echo "Congrats, you lost. Better luck next time!"
  exit
